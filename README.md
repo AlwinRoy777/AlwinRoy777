@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alwin Roy</h1>
-<h3 align="center">Junior DevOps Engineer | Cloud & Kubernetes Enthusiast</h3>
+<h3 align="center">Junior DevOps Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=DevOps+Engineer;Cloud+Native+Learner;Kubernetes+Enthusiast;Automation+Lover;CI/CD+Explorer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=DevOps+Engineer;Cloud+Native+Learner;Automation+Lover;CI/CD+Explorer&center=true&width=500&height=50">
 </p>
 
 ---
