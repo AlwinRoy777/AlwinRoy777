@@ -1,95 +1,96 @@
-# Hi 👋 I'm Alwin Roy
+<h1 align="center">Hi 👋, I'm Alwin Roy</h1>
+<h3 align="center">Junior DevOps Engineer | Cloud & Kubernetes Enthusiast</h3>
 
-🚀 Junior DevOps Engineer | Cloud & Kubernetes Enthusiast  
-
-I am passionate about building scalable cloud infrastructure, automating deployments, and working with cloud-native technologies.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=DevOps+Engineer;Cloud+Native+Learner;Kubernetes+Enthusiast;Automation+Lover;CI/CD+Explorer&center=true&width=500&height=50">
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🌍 Based in Kochi,Kerala India
-- ☁️ Learning Cloud & DevOps
-- 🎯 Goal: Become a Cloud/DevOps Engineer working internationally
-- 📚 Currently learning Kubernetes, CI/CD, and Infrastructure as Code
-- 💪 Interested in Cloud Native technologies
-
- 
- ⚙️ Tech Stack
-
- Cloud & DevOps
-- AWS
-- Docker
-- Kubernetes
-- Terraform
-- Ansible
-
-  CI/CD
-- GitHub Actions
-- Jenkins
-
-  Monitoring
-- Prometheus
-- Grafana
-
-  Languages
-- Bash
-- Python
+- 🚀 Junior DevOps Engineer passionate about **Cloud & Automation**
+- ☁️ Learning **AWS, Kubernetes, Terraform**
+- 🔧 Building **CI/CD pipelines and cloud infrastructure**
+- 🌍 Goal: Work as a **DevOps Engineer internationally**
+- 📚 Constantly learning **Cloud Native technologies**
 
 ---
 
- 🚀 DevOps Projects
+## 🛠️ DevOps Tools & Technologies
 
-🔹 Kubernetes Nginx Deployment  
-- Created deployment with multiple replicas  
-- Implemented NodePort service  
-- Custom container startup scripts  
+<p align="center">
 
-🔹 Cloud Automation Scripts  
-- Automated infrastructure provisioning  
-- Bash scripts for DevOps tasks
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,ansible,aws,git,github,jenkins,bash,python,vscode"/>
 
-🔹 Portfolio Website Deployment  
-- Hosted static website using CI/CD pipeline
+</p>
+
+---
+
+## 🚀 DevOps Projects
+
+### 🔹 Kubernetes NGINX Deployment
+- Kubernetes deployment with multiple replicas
+- NodePort service configuration
+- Custom container startup scripts
+
+### 🔹 CI/CD Pipeline
+- Automated deployment using GitHub Actions
+- Docker image build & push automation
+
+### 🔹 Cloud Automation
+- Infrastructure provisioning using Terraform
+- Bash scripts for automation
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlwinRoy777&show_icons=true)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlwinRoy777&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=AlwinRoy777&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlwinRoy777&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlwinRoy777&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
 ## 🌱 Currently Learning
 
 - Advanced Kubernetes
-- Terraform Infrastructure as Code
 - GitOps
+- Terraform Infrastructure as Code
 - Cloud Security
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/AlwinRoy777
-- GitHub: https://github.com/AlwinRoy777
+<p align="center">
+
+<a href="https://github.com/AlwinRoy777">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
+</a>
+
+</p>
 
 ---
 
 ⭐ From [AlwinRoy777](https://github.com/AlwinRoy777)
-<!--
-**AlwinRoy777/AlwinRoy777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
