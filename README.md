@@ -74,10 +74,10 @@
 
 ## 🌱 Currently Learning
 
-- Advanced Kubernetes
-- GitOps
-- Terraform Infrastructure as Code
-- Cloud Security
+- Kubernetes
+- docker
+- github
+- AWS
 
 ---
 
